@@ -1,0 +1,3080 @@
+[
+  {
+    "text": "Robert is from Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Joseph traveled to Toronto",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "David lives in Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Michael is from London",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Jennifer founded Stanford University",
+    "ner_labels": [
+      1,
+      0,
+      5,
+      6
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Sarah is working at IBM",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Michael is from Tokyo",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "David worked at Facebook in Los Angeles",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Mary lives in Paris",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Sophia founded Google",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Lisa is working at MIT",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Jennifer studied at Adobe",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Lisa visited Austin",
+    "ner_labels": [
+      1,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Amanda is working at Facebook",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Michael lives in Paris",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Alice traveled to Austin",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Robert is from New York",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Olivia visited Tokyo",
+    "ner_labels": [
+      1,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Charlie worked at OpenAI in Seattle",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "John is from San Francisco",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Mary works at Google in New York",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "John lives in Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Mary visited Austin",
+    "ner_labels": [
+      1,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Richard worked at Twitter in Chicago",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Emma studied at MIT",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Mary works at Adobe in Chicago",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "William is working at OpenAI",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Mary studied at Netflix",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Jessica works at Stanford University in Seattle",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      6,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Lisa studied at Netflix",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Emma lives in Berlin",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Sarah worked at Amazon in Chicago",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "The CEO John leads Facebook",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "John studied at Harvard University",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      6
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Charlie works at OpenAI in Miami",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Robert founded Microsoft",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Alice studied at MIT",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Olivia is working at Twitter",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "David works at Adobe in Austin",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "David works at Google in Atlanta",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Lisa founded Facebook",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "The CEO John leads OpenAI",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "Jennifer lives in San Francisco",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Sophia traveled to Miami",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Sophia traveled to Chicago",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Emma works at Microsoft in Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Alice is working at Netflix",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Michael studied at Oracle",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Joseph studied at Apple",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "William traveled to Atlanta",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Robert works at Facebook in Paris",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Sarah worked at Microsoft in Boston",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Amanda lives in Seattle",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "The CEO Jennifer leads OpenAI",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "Bob lives in Seattle",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "The CEO Amanda leads Netflix",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "John visited Tokyo",
+    "ner_labels": [
+      1,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Emma works at MIT in Los Angeles",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "William traveled to Miami",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Jennifer worked at OpenAI in San Francisco",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "The CEO Olivia leads Microsoft",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "Amanda founded Microsoft",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Bob founded Netflix",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Robert works at Google in Boston",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "John is working at Oracle",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "John works at IBM in Seattle",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Michael founded Oracle",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Emma traveled to Austin",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Charlie works at Harvard University in Paris",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      6,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Amanda traveled to Paris",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Sarah works at Apple in San Francisco",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Emma is working at MIT",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "The CEO Lisa leads OpenAI",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "Mary traveled to Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "The CEO Mary leads Google",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "Jessica works at Netflix in Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Alice founded OpenAI",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Lisa traveled to Paris",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Sarah lives in Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Michael lives in London",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Mary is working at Netflix",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Mary worked at Harvard University in New York",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      6,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      3,
+      4,
+      2,
+      2,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Robert is from Denver",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "The CEO James leads Twitter",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "Joseph lives in Los Angeles",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "William lives in Toronto",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Charlie is working at Adobe",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Jessica is working at Microsoft",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Jessica studied at Adobe",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Emma lives in San Francisco",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3,
+      4
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Emma visited London",
+    "ner_labels": [
+      1,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "Sarah studied at Adobe",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "Sophia founded Stanford University",
+    "ner_labels": [
+      1,
+      0,
+      5,
+      6
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Mary lives in Austin",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "pos_labels": [
+      2,
+      11,
+      4,
+      2
+    ]
+  },
+  {
+    "text": "The CEO John leads Google",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "Charlie founded Apple",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "John is working at Stanford University",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      0,
+      5,
+      6
+    ],
+    "pos_labels": [
+      2,
+      11,
+      15,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Alice studied at Stanford University",
+    "ner_labels": [
+      1,
+      0,
+      0,
+      5,
+      6
+    ],
+    "pos_labels": [
+      2,
+      7,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "text": "Charlie founded Facebook",
+    "ner_labels": [
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      2,
+      7,
+      2
+    ]
+  },
+  {
+    "text": "The CEO John leads Apple",
+    "ner_labels": [
+      0,
+      0,
+      1,
+      0,
+      5
+    ],
+    "pos_labels": [
+      5,
+      2,
+      2,
+      11,
+      2
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "The cat is sleeping",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      1
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "The cat is sleeping",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      1
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "text": "The cat is sleeping",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      1
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "The cat is sleeping",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      1
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "The cat is sleeping",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      1
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "The cat is sleeping",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      1
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "The weather is nice today",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8,
+      1
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "The cat is sleeping",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      1
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "The book is interesting",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      11,
+      8
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "Dogs are loyal animals",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "text": "She runs quickly",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "text": "Students learn programming",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      1
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "They are studying hard",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      15,
+      9
+    ]
+  },
+  {
+    "text": "Teachers help students",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      14,
+      11
+    ]
+  },
+  {
+    "text": "The car drives fast",
+    "ner_labels": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      5,
+      1,
+      3,
+      8
+    ]
+  },
+  {
+    "text": "He plays football",
+    "ner_labels": [
+      0,
+      0,
+      0
+    ],
+    "pos_labels": [
+      2,
+      3,
+      1
+    ]
+  }
+]
